@@ -8,7 +8,9 @@ Check out [this document](howtorunVSCode.md)
 
 # Projects For You
 
-* [helloworld](helloworld)
+* [CodeTemplateMacVSCode](CodeTemplateMacVSCode)
+* [CodeTemplateWindowsEclipse](CodeTemplateWindowsEclipse)
+* [CodeTemplateWindowsVSCode](CodeTemplateWindowsVSCode)
 
 # important note 
 
