@@ -1,17 +1,13 @@
-# Project
-
-Pointers Basics
-
 # Compiling Code - with external .h and .cpp files
 
 For example, with file names like this.
 
-G++
+G++ (Windows)
 
-    g++ -c HelloWorld.cpp -o HelloWorld.o
-    g++ -c main.cpp -o main.o
-    g++  HelloWorld.o main.o -o a.out
-    ./a.out
+    g++ -c HelloWorld.cpp -o HelloWorld.exe
+    g++ -c main.cpp -o main.exe
+    g++  HelloWorld.exe main.exe -o a.exe
+    ./a.exe  
 
 CLANG++ (Mac OS)    
 
@@ -24,9 +20,9 @@ CLANG++ (Mac OS)
 
 Use this when you all your code in a single main.cpp file.
 
-    g++ -c main.cpp -o a.out
-    g++ main.o -o a.out
-    ./a.out
+    g++ -c main.cpp -o main.exe
+    g++ main.exe -o a.exe
+    ./a.exe
 
     clang++ -c main.cpp -o main.o
     clang++  main.o -o a.out
