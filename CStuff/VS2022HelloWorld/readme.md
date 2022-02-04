@@ -1,9 +1,13 @@
-# C and C++ For Students
+# Hello world
 
-Some code related to C and C++ for my students.
+C Programming with Visual Studio 2022
 
-For C related things, go here [CStuff](CStuff)
-For C related things, go here [CPPStuff](CPPStuff)
+# Compiling Code
+
+1. Just Build > Rebuild.
+1. Run Debugger.
+
+Easy.
 
 # Hire Me
 
