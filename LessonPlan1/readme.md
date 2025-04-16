@@ -1,12 +1,13 @@
 # Lesson Plan 1
 
-1. Declaring Variables of all basic types
+1. [Declaring Variables of all basic types](ComparisonOperators)
 2. cout and cin, cout output formatting
-3. Comparison Operators
+3. [Comparison Operators](ComparisonOperators)
 4. if and else and else if
 5. While Loop
 6. Do While Loop
 7. For Loop
+1. [Constructor](Constructors)
 
 # book a session with me
 

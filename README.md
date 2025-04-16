@@ -2,6 +2,11 @@
 
 repository with some cpp for my students
 
+## Projects
+
+1. [HelloWordProjects](HelloWordProjects)
+1. [LessonPlan1](LessonPlan1)
+
 # book a session with me
 
 1. [calendly](https://calendly.com/jaycodingtutor/30min)
